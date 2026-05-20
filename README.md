@@ -79,19 +79,21 @@ python data/generate_data.py
 # Run the app
 streamlit run app/app.py
 
-Streamlit App Features
-5 KPI summary cards — Total Spend, Revenue, ROAS, MQLs, CPL
-	•	Campaign conversion funnel with drop-off % at each stage
-	•	Month-over-Month trend lines with parameter toggle
-	•	ROAS by channel bar chart
-	•	Region × Channel ROAS heatmap
-	•	Top 10 campaigns by ROAS table
+## 📱 Streamlit App Features
+- 5 KPI summary cards — Total Spend, Revenue, ROAS, MQLs, CPL
+- Campaign conversion funnel with drop-off % at each stage
+- Month-over-Month trend lines with parameter toggle
+- ROAS by channel bar chart
+- Region × Channel ROAS heatmap
+- Top 10 campaigns by ROAS table
 
-Tableau Dashboard Features
-MoM % change indicators on all KPI cards
-	•	Interactive filters — Date, Channel, Region, Campaign
-	•	Campaign conversion funnel — Clicks to Conversions
-	•	Region × Channel performance heatmap (red-green)
-	•	Cost Per Lead by Region with ₹100 target benchmark
-	•	Deep Dive channel summary table
-	•	Dark theme designed in Figma + built in Tableau Desktop
+---
+
+## 📊 Tableau Dashboard Features
+- MoM % change indicators on all KPI cards
+- Interactive filters — Date, Channel, Region, Campaign
+- Campaign conversion funnel — Clicks to Conversions
+- Region × Channel performance heatmap (red-green)
+- Cost Per Lead by Region with ₹100 target benchmark
+- Deep Dive channel summary table
+- Dark theme designed in Figma + built in Tableau Desktop
