@@ -1,7 +1,5 @@
 # 💳 NovaPay — Fintech Campaign Analytics
 
-![Dashboard Preview](screenshot.png)
-
 ## 🔴 Live Demo
 | Platform | Link |
 |---|---|
