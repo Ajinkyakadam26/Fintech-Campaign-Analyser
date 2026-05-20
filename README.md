@@ -44,14 +44,14 @@ across Python, SQL, Streamlit and Tableau.
 ## 📁 Project Structure
 fintech-campaign-analyser/
 ├── data/
-│   └── generate_data.py     ← Generates 500K row dataset
+│   └── generate_data.py
 ├── app/
-│   ├── app.py               ← Main Streamlit application
-│   └── utils.py             ← Helper functions
+│   ├── app.py
+│   └── utils.py
 ├── sql/
-│   └── queries.sql          ← 7 key SQL queries
+│   └── queries.sql
 ├── tableau/
-│   └── dashboard_link.md    ← Tableau Public link
+│   └── dashboard_link.md
 └── requirements.txt
 
 ---
@@ -64,7 +64,6 @@ fintech-campaign-analyser/
 - **19 columns** — including CTR, CPL, CPA, ROAS, MQL Rate
 
 To regenerate the dataset:
-```bash
 python data/generate_data.py
 
 Run Locally
@@ -96,4 +95,3 @@ MoM % change indicators on all KPI cards
 	•	Cost Per Lead by Region with ₹100 target benchmark
 	•	Deep Dive channel summary table
 	•	Dark theme designed in Figma + built in Tableau Desktop
-
